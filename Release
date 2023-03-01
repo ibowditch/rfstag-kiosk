@@ -1,0 +1,21 @@
+Components: nfcserver2
+Date: Wed, 01 Mar 2023 03:37:32 +0000
+Description: RFSTAG description
+Label: RFSTAGLabel
+Origin: RFSTAGorigin
+MD5Sum:
+ 6382682d78123dcd53fe2788ea87980b              645 Packages
+ 1b304c98291a13ab25e4fcfa4568eb8c              471 Packages.gz
+ 35830c1efce63c66b507dbff95782442              133 Release
+SHA1:
+ ffc13822cbdae853f32561571354af0b6dd864e6              645 Packages
+ 702be270cdb9d8353ebe8f363f693f77b34ab143              471 Packages.gz
+ ce4f9e8f46aa5ff1eda2ef49fef01e87aac55757              133 Release
+SHA256:
+ ea98a3e00f10541efa4926fd6930eb6bcb902b8408bfd0041a39f2ea5b48b2c4              645 Packages
+ 25aeda828d876a9197c779a51e7dd7a2afeffd98d1d4faec59b2d44eb6fe4d8c              471 Packages.gz
+ 5a94f1af079f3c100ff4627085e195c6e7706c12ebb46086a707cdfcf86a9883              133 Release
+SHA512:
+ ad535cf65644e7f662f0d0a147a1aa01873e6b6d65cde4e97680522a935aef3e8b2e48d9669e9af53c186288daad25d0a98d01eaa750f5cc231b798b4936a358              645 Packages
+ aa25a6ac59d1707b421d8090a302e035d14d9cd881e4eaf0b309bea6ea1acb9d6e4b852f7b811354c2f5c74394b6bd088ba70ebce708a2b3f47f261de8329349              471 Packages.gz
+ 85a8c784980534970d6f64f409e8ac175bd1e6d60d0b87ee5d74955be1d51e927dc2ce507c65c45436bbf24a1b3e39458463d546426636ff6b77632b4b374d39              133 Release
