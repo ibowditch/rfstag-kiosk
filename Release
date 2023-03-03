@@ -1,21 +1,21 @@
 Components: nfcserver2
-Date: Fri, 03 Mar 2023 05:38:33 +0000
+Date: Fri, 03 Mar 2023 05:49:13 +0000
 Description: RFSTAG description
 Label: RFSTAGLabel
 Origin: RFSTAGorigin
 MD5Sum:
- 0d0fa142952e4618cb1c3cd86d4867a6             9694 Packages
- 111bdc31310f22dc98870bd37aa0efb9             1951 Packages.gz
- ababa0455dd1c1a66f5068426ca21942              133 Release
+ 928ad0806a160e8262b49b20560772b8            10358 Packages
+ be29ea6ce81a8fe545bf2aeceaf5d137             2054 Packages.gz
+ a66334fb38c92d69df61d0fdd6d21644              133 Release
 SHA1:
- 21112898e94ab37cadb7d8d3cc681be20640fc1b             9694 Packages
- ce525aa632941f1e6753c96514453fd357812c78             1951 Packages.gz
- 7f0230aed389ca4ec486f55641ab589438afb13d              133 Release
+ 1082d91c81e15e924c3b69a27aa09c60d6c54795            10358 Packages
+ 42384dfe1d674de55174a53e0bf2114893f178b8             2054 Packages.gz
+ 59adb87026cfc04f50e028baa9c0a70bad443a1a              133 Release
 SHA256:
- 6ca6f25c5b4808cd6ac0019aa2e9fb178a89357516a74e300a8f8f3eb848c1bc             9694 Packages
- d9defd0c6e5ab78da6498064eb54a42a831894d06a6da87366e091ce35b90122             1951 Packages.gz
- 9b2ac8a6dd8fe82ba31e4fa5d4fb377e33672b2b6143b8d9246d4a2ff96f96e1              133 Release
+ e6d8686c06897ac59b659f9e2aac72870f151ab47aa840af1fd9b244056a9614            10358 Packages
+ d406c5271b283d422c61dc59de3f7c52335e7dbefed1a5a2d01d7b9a3b2d30ea             2054 Packages.gz
+ b3857846dbd39b343f0cc1484fac183bbba9641861331cbd1dd447f8e4628412              133 Release
 SHA512:
- de6fe918ffd9d22f1aa276394dfa5fc6e8b5f5755cd104e2f1921575f75b6c272201bb621834bbd70e4a4d1a8c4c3b746e5658e09987108f1c37e9b721ef335e             9694 Packages
- 46d91f16efa7e841f1ba0455c3fd5d08d81c7748adc34072345adab5c7045a30334eb2e5d816cab0ca83b7de77285235104cd03786c34e4c5ef9dab4d76a6602             1951 Packages.gz
- 8bb63d48e5c842826ddd0313ceb231a7e94488e5813765f3261eea47a31ff72df2b0e11ac058de01c97e2d4e27311aa4c08a3a78d7d8bbc041e2c67dc55f5ae3              133 Release
+ 0493ae86ada8d9343810f7d50a0dba794e7115b210b5c363bfd7dd24c84a3dc4ffb7729e5480d46b0f2b3a623d07183ce90bade24fa63e60f7c41864cdc7adba            10358 Packages
+ a261a59e799bb12d0abffb7ba69e5f640e39222741051e9355db29b9f10d74cd8c5046309081f661c89c3e9de24a2c39d5002c8e28901be6982477b444b1f2e6             2054 Packages.gz
+ 85d7acb2c38728985c47d7ddf54e521f5f5785a4aaacb09814aea2069677b0c23ed507636f924ca38de70afc7034699e71f6954f9be7c25ed17949986bd48fa5              133 Release
