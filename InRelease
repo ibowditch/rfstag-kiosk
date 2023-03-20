@@ -2,37 +2,37 @@
 Hash: SHA512
 
 Components: nfcserver2
-Date: Wed, 15 Mar 2023 07:14:38 +0000
+Date: Mon, 20 Mar 2023 04:31:34 +0000
 Description: RFSTAG description
 Label: RFSTAGLabel
 Origin: RFSTAGorigin
 MD5Sum:
- e5627e124889a08507b1788eeca2d49d            15670 Packages
- 50a76baca0b6fb3aeeec734437b20366             2877 Packages.gz
- d32235fc91ff0a7914108d41fb2b5e39              133 Release
+ 1abc7c8c683e5b0c9c01c0877886aaab            16334 Packages
+ fdb8941cbb5bafa995e4c7e425ac1f7e             2977 Packages.gz
+ 4bb772245c7efa3db0fa38089bff0aa5              133 Release
 SHA1:
- 7c357c7812cfae05545fa09c37646ee054146f38            15670 Packages
- 46f2406d590c9762f90c73d6ca69632b5ad6dd66             2877 Packages.gz
- 5141b6cfd3dc7c10d00db038e30eca14c55d9176              133 Release
+ f94af22272d5520e5f6a5d7330cbaceaf44691f1            16334 Packages
+ 5e48f41700242cdd27cf8a15431bfea401f5405f             2977 Packages.gz
+ dc82b55c69f40658e670f5e6fbe1e2feee491d76              133 Release
 SHA256:
- 505c23a05f03ef8b80331bc00682b35e786f61b5e15d20778ce8f3c6aa559b92            15670 Packages
- 0d47da8fba00ccfcb293ebc022afaad10b1784cd7d869519e3a8fff5e888a211             2877 Packages.gz
- ada97f3861584efce43d4dcdd2563f7b6a0ed09e1ebe2e0e279cab9cd9bab553              133 Release
+ 8352e98fcfedd65c95f709edb6e7a94230d828cea10b84d2f80ad7e860a71526            16334 Packages
+ 292ff4dec265292909bd8c39df6907fb96d8d5faf95e9f5537197ebae3b0d14c             2977 Packages.gz
+ 835b1e33a1efac02251e4081f1b449faa54a2b8fbb202d16389d5def9819da5e              133 Release
 SHA512:
- 484a086958071da1cd57c3949cc15ac9f1c2b314894b8fb59b4e16fb817ef8c357ac37a0ba865be19bb889017906a1eb740319b8416af43bd9e74502472662e6            15670 Packages
- 0becfdb69b886eb0f975b9625b54693d8acf127efe8e778b62edb16ae9a0bd63879044fb080c1733c6741e126c6346723955b84af6b0a19bd7c651f3fbd253fd             2877 Packages.gz
- af9faa6f869b6eef613e3e76405f7742c0eefcac32efe1eec82f3a05e7bd696f6de8d95e72c3a963600d987bc12a1d0a0583f9a7bfbf979a38d96ae31a7d1e1a              133 Release
+ 23479781216125657e85fc78540d08a9106bfde4b2615d2847f20fce9f4da248fb989a580b1e983709d7b79c0665f85b104fafa41d0141b7eb18c4fd89e2c8ec            16334 Packages
+ eb9c9aee65a63dbd2e35afda4a43a28f6874448f34495cc08a428171cedbd4fb6f4e4074b51e984d7c0b851885fc4b298ffbdda6f9b32953ed530080a7cbd21d             2977 Packages.gz
+ 18fd126f42acba036cc121b6dbf9e13fbc585b4c6e4adaff4d1eecf3ea5562a3ec6ba2dd8f89ef31456f915058fe1011ea12bbfa1f9b18d98c4375a6d8700f52              133 Release
 -----BEGIN PGP SIGNATURE-----
 
-iQHIBAEBCgAyFiEEggN2qphWEFazhUj+Z/+UPGIHjBQFAmQRcF4UHGlib3dkaXRj
-aEBnbWFpbC5jb20ACgkQZ/+UPGIHjBTlKQv7Bb0C3KQ1S22GNf0Jr87Osh6KZ1ts
-fV/ivM6T/Ry+txTMzrz84y7AYdnl90EBUZjKnarNR0UzCYn5doXzID0Ca6I28jY+
-oKcq1u2dUzl+gUYnaqKPyfhRs4/DAFGLQL0C70qvG/JPCiXVaKJh4SS6Y4Zmidz4
-XVuFtuESBpei63oYSBg1mNdX2nIo+Wx9djPUuKZen887uCIYq00ApEz5WT+NXr7d
-9YscpOxJ1ofvfmGGc//JUJJe2Hrz+tABg5CX8mgxXO9o9rIAWRECKPJ1NVNcrD8A
-G7zQ0UBRGi75OqjlZZs2g8V6gWexA5dDO1gv2hrqMOu6oNj0hoDSNF++bGJHQbJ+
-C6b04AEsMipNkMbHDFbebYfEw+Ztzg8MAkIHfFbtkobS8bQVqXuz6B1BuCAVFia2
-N8nmhm3dYW2GQOrikqNuQMK7GsrLb4UQhz/RqDqMvr3L42uao8mhrx96UMYEl3Ns
-Suy+Fgp9DcJLRy7XRE4NrnuweAqW8cqD3wdf
-=eVFk
+iQHIBAEBCgAyFiEEggN2qphWEFazhUj+Z/+UPGIHjBQFAmQX4aYUHGlib3dkaXRj
+aEBnbWFpbC5jb20ACgkQZ/+UPGIHjBQKzgv7BovEfR+UvrgrH55owRrrRuBvBbMz
+YlZOcr3ulbsSKrSQvfPw+hNoA7gqZEHhorGcNl/cCPDIPQPaxELcoi+p7uHfqAn1
++BNLS/WirQZC4eb6+xyAOV+PJ5O9vMgOkqf6BiLb3eO4gbJMHH1u/yDNhuE7C0XS
+oayjF68EVcP0gjBSRExblTl6Q61t3Lr8um7B2OZbbvyizUINu39R+koAsre3N0Vy
+uVyGTcKhYVCNsafnA2XYT1qjDIClqAdIatXDuB9Rila0HuqY9Uugs5XV8ooXfAVl
+6JNuSytI4meuYbToxNOzkdy3wM4MVolJ05sRKbdSY056yBzDMCo9w6oK9lhj9DdY
+WdDcHWsmk4BoAzP0aYkd1NDccwpgSDkSdJZn08HeoieY5nW7K9M43lD2Vrz6iW6t
+ykt3S9Henz3oyDChXXJiolR1eLHuV2XDqWKR9qKyWOouCi7pKwzil9COdNtjI+Xj
+zN3pWohidgrqV8Uu2IGHNme/PjKahbqNgOqj
+=jJuB
 -----END PGP SIGNATURE-----
