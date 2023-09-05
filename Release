@@ -1,25 +1,25 @@
 Components: nfcserver2
-Date: Tue, 05 Sep 2023 03:56:32 +0000
+Date: Tue, 05 Sep 2023 04:05:42 +0000
 Description: RFSTAG description
 Label: RFSTAGLabel
 Origin: RFSTAGorigin
 MD5Sum:
  2431e8859f8dba6daadb843a5fe660ee            22987 Packages
- ed921957a1006a88dbd08c484f03b440             4050 Packages.gz
- d33b75c0bbdec8b2889a5dd8c582cd74              133 Release
+ e890f12d3dde3cf9286df85e699faa15             4050 Packages.gz
+ 9d847ed3320ea543ab85410ca5d0c414              133 Release
  70896ce57ecf29f40c1919c534886995            22983 tmp/Packages
 SHA1:
  408ad1bbef2c656b12e251654066abe2b7334253            22987 Packages
- 87a699718ee9d68fe8c3e03ce5679877aad423e4             4050 Packages.gz
- 0d50eb888cc9a803a5031fd83de7d22898b39b7b              133 Release
+ ad0f6ffa85ec272bbb05c0c5e43dc6737721b1bb             4050 Packages.gz
+ e80b8ef6b7a9f93f2ead7f475611b9a40229ab98              133 Release
  e4d51f26465c9bd12e774a9e74e8c0983096b24f            22983 tmp/Packages
 SHA256:
  84a63c9ab8e5899e11882a5fa76abf50c747b21d672bc4d018b4d484a994d727            22987 Packages
- e3d2240f7c0952ad24cb20b065d9da981fae8147d6c6870eea824363bcf8483e             4050 Packages.gz
- 62839678ef84a764e95108e833c708b81dd83ddf9b80ea268b79dd9c81c5dc95              133 Release
+ 0d517b0b72e9598fc9b8709f13ab911e890f5384697366e3041f640ab9c3dbfb             4050 Packages.gz
+ da87922ee6c81d18841d89b2d441ce8abe8d703de3bba2f445017798f6a8989c              133 Release
  b1cc79a9cff32d7763c9d03c19d2b0df0e20fd0824cbfc118eb7eda68998fd75            22983 tmp/Packages
 SHA512:
  41def201cfe73c5fc7acfbfbe4c6694e8a61587e22cc0694a995c2a0518d2ced21e73da4cd6b1bd0dc953b8d3d6e5b30d6639ab3502d33e3cef97cbdf6dfe474            22987 Packages
- aa7c84f93b70ef8cc7f0876f0bd6e996501b70d3a8a20257294c718742e247ac4ad20ab783823215cb23b96634b618ed8b12c7564345188dd404bdeb7a9b10a9             4050 Packages.gz
- 9e97292191266c6e2912606e4542907851d6058392659c163d5e4b8cf7ec6b0844704364d1c66bbf0cd452ef82079d81ef5fc25f05ec2c8780afd5ef6a711d4e              133 Release
+ 763f662d247b8e61537ce1675c8c2241f82f3b1eb6c618286b4d5fd64e7004a3d5b78907aedf5886d9ca9480998202fa5ee9dfad5c0d3c2ba1404713a18e060a             4050 Packages.gz
+ ca272f3e34f660c93ea246398c9fadfa852bb35a46cce2070adc146ff59133c43265abca86bb8ce85dd1f533ad33b8aea203b415808aea880860eb3b940558b2              133 Release
  ab026ed50c7f56d906f6525ba4022ee4aa84d70f4f7fd6a8c5dd08efe8b1fe43e055b6f6576c1924cbe126d73c5d39f319dced666982a2a14d4aff4ccd2a700c            22983 tmp/Packages
