@@ -2,37 +2,41 @@
 Hash: SHA512
 
 Components: nfcserver2
-Date: Thu, 18 May 2023 04:57:07 +0000
+Date: Tue, 05 Sep 2023 03:43:48 +0000
 Description: RFSTAG description
 Label: RFSTAGLabel
 Origin: RFSTAGorigin
 MD5Sum:
- 70896ce57ecf29f40c1919c534886995            22983 Packages
- e566f65a35bb3b8eab20026624ea71a8             4039 Packages.gz
- 4d16f5e8188c970c1b6b0040ade1039b              133 Release
+ 70928088dd4cd561703465aff946dcee            23651 Packages
+ 432ad79ecb0db44b7798d322eaa80f67             4056 Packages.gz
+ 5d4012330a23e59d027e1ba4dff3cfab              133 Release
+ 70896ce57ecf29f40c1919c534886995            22983 tmp/Packages
 SHA1:
- e4d51f26465c9bd12e774a9e74e8c0983096b24f            22983 Packages
- 1a77153ac4c9bc9acdac4e5abc7f753f9dad8509             4039 Packages.gz
- 0ce7f25f8399d4586060610241a7d9a1b1c1d013              133 Release
+ 217d90157de96a5ddde2c88fa28b5d1f50ffefe4            23651 Packages
+ df5207c5e69acdd55fe4d90f353eac4f4811d00f             4056 Packages.gz
+ d8659a315612c0f08948b88cf7bd188f1d579f59              133 Release
+ e4d51f26465c9bd12e774a9e74e8c0983096b24f            22983 tmp/Packages
 SHA256:
- b1cc79a9cff32d7763c9d03c19d2b0df0e20fd0824cbfc118eb7eda68998fd75            22983 Packages
- cd21f401bf6967058f85262a612e4d5ec7633a00eb22be6d8a4aead59f6ad1b6             4039 Packages.gz
- 1f16c3e8afefde822825ce284b8006e5aec68e0fc70069734f6713fa5ce875e9              133 Release
+ 41aa10f8acf7cd03f7caba4fa7036f54ce86e4d8f6464a25de81ba3e40419792            23651 Packages
+ 5f41d2c83b73ea8da66f5a5f674c439908a456c9008dfbf228347e647f100008             4056 Packages.gz
+ 3ebee0e3a0494672c00a3042fe2bf055392bc56e795031e561c90cf6db08d7f8              133 Release
+ b1cc79a9cff32d7763c9d03c19d2b0df0e20fd0824cbfc118eb7eda68998fd75            22983 tmp/Packages
 SHA512:
- ab026ed50c7f56d906f6525ba4022ee4aa84d70f4f7fd6a8c5dd08efe8b1fe43e055b6f6576c1924cbe126d73c5d39f319dced666982a2a14d4aff4ccd2a700c            22983 Packages
- 4c113491e6af67000f24e70754e7c603ed12fb4f9ba6b54ab4fe75f94c53fca297c50bc4f506836ee9582956f62fab855e1072a66381c76f72e70650ba15a4ac             4039 Packages.gz
- 771c7feb751a537faa1e6799afcdfff22fb69a23c577d97d58e977f82175dda28cee0407791bcfc53efba0c0a78f8ac93c3ae36553e08f06d80f38a577cbee12              133 Release
+ cc74d89199b71bd9ca90406fb7f609b78f488b085133566b75e247c77faa68470cd5ac26b711118b42db6d38bf0942b16f17c46e7daca7e1d3ef614e8e0ca3e3            23651 Packages
+ 883d861bbce59685425b4df04a1960e3842468a9fbee3a68b72f0094e84d93851e893e650fd3c46a3e403a6256b056b6723808fd88f3c8f0c5b0ebc43aadc75d             4056 Packages.gz
+ 4d8ac70c97dae5258f06ac63694295c503f34330729b2b130707ac7c4b4f9d58e3a54f1e344f96dd1073ebe7771f71904920fa487cac25efb19056b099c82b29              133 Release
+ ab026ed50c7f56d906f6525ba4022ee4aa84d70f4f7fd6a8c5dd08efe8b1fe43e055b6f6576c1924cbe126d73c5d39f319dced666982a2a14d4aff4ccd2a700c            22983 tmp/Packages
 -----BEGIN PGP SIGNATURE-----
 
-iQHIBAEBCgAyFiEEggN2qphWEFazhUj+Z/+UPGIHjBQFAmRlsCMUHGlib3dkaXRj
-aEBnbWFpbC5jb20ACgkQZ/+UPGIHjBS9+Av9GWTKKdEev0wnXI+Xt8TGuYFR46Fl
-Ubonq9pCEdBNBnzMsCAepLO+uGqpm2jM8WGBqksbYHXTzUZv1QZGkneCh1ThaFVt
-3t1/AaBs6Xf76dLvcVQmzct2FFB9FhVQZkdMKgDiI9PQ//0xzpTEsEvIS2b+y7dM
-iSIzjNI6BzwHxVeTGERMWcdaeFMfftG62wFDZ6Smw+QkrXB9GtESSlmk2FW+NSeI
-cS0UYJsI8Ky/h0vozW7/IE2NQwF8iiF80A7uAggjOG0a0xBLFX8VwRm1HsModuSb
-kkwUr/H9iGSP/rgTs3dy8AIvF1WwPw98Ij1zAB7iyyN0dIYkPPG2Ai3lqCQb9N6L
-j7TwMPq+X+mM9VOVD/mankYCRu0RJ+/CiTeJAeHFnpUquccW9SQSc7vdTeCKFizF
-feYxEPnVOXrg87Pcsu31CrCjTGAXH7sc74+puEKrrBkS+GYu2MyFa3/17NoWWfmo
-/uc9xlvDnIXI1eOaUiUsPLrdvcA/twjY8WVl
-=Vly/
+iQHIBAEBCgAyFiEEggN2qphWEFazhUj+Z/+UPGIHjBQFAmT2o/UUHGlib3dkaXRj
+aEBnbWFpbC5jb20ACgkQZ/+UPGIHjBRKugwAgWsCqwu7Jb1g/38expEaGEeWhM6n
+jE/W49/O8nBCw0E03VVFMWHT/Kt/w/IQutniIakJ7+3bFTBqGiuaXwMJ1cgvUjOP
+7cL7942neaJXJi/ehlzbjS+RApqp9NYF91J0r9hLRd6pr4lseCKVMJfk1dMAytFk
+qs+uaEfqNN/Gwr2bwWsAqr+Z9cPAqqiL7+niLk/FHOaYIqFdISiHm0zeVbWFHczj
+F/c5Z2L7eNNbiqflbGQ5CE8cR+vFyCDQNfhgvmqkLINgUE23BNuGY5iQsbG1bFfO
+2y+POU+d6zxEFqDL1Ehq/mkhxhQgdSXedjQH3TcObmOJKKBbvIm1PRVPE2AnbMzs
+3H+dfR7K+kpHaHFu3tBlVEIkAv1Gt/qtxip2tnHlAC12/OlkTTcpqih88S+W1udc
+YvoYi1FPdddyijIpQj0Htm1CyWNS1LkvtNl5+Qr5MhxbOL0WbtPz8UejmbOgHJ2k
+/A7KKNXaA6DU7hV1Aj6iqBMD5idbGO+Ub74f
+=f6H0
 -----END PGP SIGNATURE-----
